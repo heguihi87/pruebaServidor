@@ -1,3 +1,11 @@
 {
-  "dni": { "numero": 645645546, "letra": "G"}
+  "datospersona": {
+    "dni": {
+        "numero": 47487602,
+        "letra": "P"
+    },
+    "nombre": "Hector",
+    "apellidos": "Guillamon Hidalgo",
+    "mensaje": "Cada vez mas lejos de COBOL :D"
+  }
 }
